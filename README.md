@@ -21,9 +21,10 @@ It also serve as a future-plan for a one personnel keycap and mechanical keyboar
 
 ## Planning Features:
 
-* Account management 
-* Admin page for adding new products and dashboard
+* Register/ Login/ Logout
+* Account management.
+* Admin page for adding new products and dashboard.
 * E-commerce keycap shopping.
 * Wishlist for keycap product to be re-stored. 
 * Groupbuy register for certain keycap design.
-* Portfolio with link to git and LinkedIn
+* Portfolio with link to git and LinkedIn.
